@@ -15,19 +15,12 @@
   
       <?php 
           include('parts/navbar.php');
-          $title = 'Welcome';
 
+          $title='Punch';  
           include('parts/hero.php');
-      ?>
-        <section class="section">
-          <div class="container">
-            <h1 class="title">Welcome</h1>
-            <h2 class="subtitle">
-          A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading
-        </h2>
-    </div>
-</section> 
-      <?php
+
+          include('parts/punch_table.php');
+      
           include('parts/footer.php');
       ?>  
 
