@@ -26,8 +26,18 @@
                 </span>
             </a>
 
-            <a href="example.php" class="navbar-item is-active">
+            <a href="schedule.php" class="navbar-item is-active">
                 <span class="icon is-small">
-                    <i class="fa fa-sign-in"></i></span><span>&nbsp;&nbsp;Sign in</span></a><a href="/oscarmagedon/cakephp/tcheers/users/contact" class="navbar-item"><span class="icon is-small"><i class="fa fa-phone"></i></span><span>&nbsp;&nbsp;Contact us</span></a>        </div>
+                    <i class="fa fa-calendar"></i>
+                </span>
+                <span>&nbsp;&nbsp;Schedule</span>
+            </a>
+            <a href="/oscarmagedon/cakephp/tcheers/users/contact" class="navbar-item">
+                <span class="icon is-small">
+                     <i class="fa fa-phone"></i>
+                </span>
+                <span>&nbsp;&nbsp;Contact us</span>
+              </a>        
+            </div>
       </div>
   </nav>
