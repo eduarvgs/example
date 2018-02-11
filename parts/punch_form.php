@@ -39,6 +39,10 @@
   		<div class="control">
     		<input class="input timepicker" type="text" placeholder="Text input">
   		</div>
-	</div>	
+	</div>
+
+	<div class="control column is-10">
+    	<button class="button is-info">Submit</button>
+  	</div>	
 
 </section>

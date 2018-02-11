@@ -30,7 +30,19 @@ Date	Start Time	End Time	Location	Call Out Location	Description	Timestamp
 	    		<td>29/sep/2017</td>
 	    		<td>7:05 am</td>
 	    		<td>3:05 pm</td>
-	    		<td>-</td>   		
+	    		<td>
+	    			<a class="button is-primary">
+					    <span class="icon is-small">
+					      <i class="fa fa-pencil"></i>
+					    </span>
+					</a>
+
+					<a class="button is-info">
+					    <span class="icon is-small">
+					      <i class="fa fa-eye"></i>
+					    </span>
+					</a>
+	    		</td>   		
 	    	</tr>
 	    </tbody>
 	</table>

@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.2/css/bulma.min.css">
 
         <title>
-            Project Eduar Vegas
+            :: Project Eduar Vegas
         </title>
         
       </head>
